@@ -3,9 +3,10 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-imblearn
+imbalanced-learn
 catboost
 xgboost
 Flask
 dill
--e .
+imblearn==0.0
+#-e .
